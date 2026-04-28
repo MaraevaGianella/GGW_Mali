@@ -1,0 +1,86 @@
+Number,Plant name,Status,Taxon_name_accepted,Authors_accepted,IPNI_accepted,Binomial_clean_accepted,Origine,Cultivated_2015_Mali,Codes_Origine
+1,Acacia ehrenbergiana,Synonym,Vachellia flava,(Forssk.) Kyal. & Boatwr.,77131715-1,Vachellia flava,Locale,0,1
+2,Acacia nilotica,Synonym,Vachellia nilotica,(L.) P.J.H.Hurter & Mabb.,77089275-1,Vachellia nilotica,Locale,1,1
+3,Acacia senegal,Synonym,Senegalia senegal,(L.) Britton,518304-1,Senegalia senegal,Locale,0,1
+4,Acacia seyal,Synonym,Vachellia seyal,(Delile) P.J.H.Hurter,77089276-1,Vachellia seyal,Locale,1,1
+5,Acacia sieberiana,Synonym,Vachellia sieberiana,(DC.) Kyal. & Boatwr.,77131781-1,Vachellia sieberiana,Locale,0,1
+6,Acacia tortilis,Synonym,Vachellia tortilis,(Forssk.) Galasso & Banfi,77087190-1,Vachellia tortilis,Locale,0,1
+7,Acridocarpus monodii,Accepted,Acridocarpus monodii,Arènes & P.Jaeger ex Birnbaum & J.Florence,77071317-1,Acridocarpus monodii,Locale,0,1
+8,Adansonia digitata,Accepted,Adansonia digitata,L.,558628-1,Adansonia digitata,Locale,1,1
+9,Anacardium occidentale,Accepted,Anacardium occidentale,L.,319068-2,Anacardium occidentale,Exotique fruitière,1,2
+10,Argemone mexicana,Accepted,Argemone mexicana,L.,18816-2,Argemone mexicana,Locale,0,1
+11,Annona senegalensis,Accepted,Annona senegalensis,Pers.,72309-1,Annona senegalensis,Locale,0,1
+12,Anogeissus leiocarpa,Synonym,Terminalia leiocarpa,(DC.) Baill.,171202-1,Terminalia leiocarpa,Locale,0,1
+13,Azadirachta indica,Accepted,Azadirachta indica,A.Juss.,1213180-2,Azadirachta indica,Exotique fruitière,1,2
+14,Balanites aegyptiaca,Accepted,Balanites aegyptiaca,(L.) Delile,813589-1,Balanites aegyptiaca,Locale,1,1
+15,Bauhinia rufescens,Accepted,Bauhinia rufescens,Lam.,481643-1,Bauhinia rufescens,Locale,0,1
+16,Bombax costatum,Accepted,Bombax costatum,Pellegr. & Vuillet,112254-1,Bombax costatum,Locale,0,1
+17,Borassus akeassii,Accepted,Borassus akeassii,"Bayton, Ouédr. & Guinko",77075289-1,Borassus akeassii,Locale,1,1
+18,Boscia senegalensis,Accepted,Boscia senegalensis,Lam.,146142-1,Boscia senegalensis,Locale,0,1
+19,Cassia sieberiana,Accepted,Cassia sieberiana,DC.,485224-1,Cassia sieberiana,Locale,0,1
+20,Ceiba pentandra,Accepted,Ceiba pentandra,(L.) Gaertn.,1166232-2,Ceiba pentandra,Locale,1,1
+21,Celtis toka,Accepted,Celtis toka,(Forssk.) Hepper & J.R.I.Wood,912211-1,Celtis toka,Locale,0,1
+22,Citrus limon,Accepted,Citrus × limon,(L.) Osbeck,60454758-2,Citrus limon,Exotique fruitière,1,2
+23,Combretum glutinosum,Accepted,Combretum glutinosum,Perr. ex DC.,170119-1,Combretum glutinosum,Locale,0,1
+24,Combretum micranthum,Accepted,Combretum micranthum,G.Don,170278-1,Combretum micranthum,Locale,0,1
+25,Combretum nigricans,Accepted,Combretum nigricans,Lepr. ex Guill. & Perr.,170312-1,Combretum nigricans,Locale,0,1
+26,Commiphora africana,Accepted,Commiphora africana,(A.Rich.) Engl.,127576-1,Commiphora africana,Locale,0,1
+27,Cordia myxa,Accepted,Cordia myxa,L.,114380-1,Cordia myxa,Locale,0,1
+28,Cordyla pinnata,Accepted,Cordyla pinnata,(A.Rich.) Milne-Redh.,487141-1,Cordyla pinnata,Locale,0,1
+29,Daniellia oliveri,Accepted,Daniellia oliveri,(Rolfe) Hutch. & Dalziel,490996-1,Daniellia oliveri,Locale,0,1
+30,Delonix regia,Accepted,Delonix regia,(Bojer ex Hook.) Raf.,491231-1,Delonix regia,Exotique bois,1,2
+31,Detarium microcarpum,Accepted,Detarium microcarpum,Guill. & Perr.,492282-1,Detarium microcarpum,Locale,0,1
+32,Dichrostachys glomerata,Synonym,Dichrostachys cinerea subsp. africana,Brenan & Brummitt,77249830-1,Dichrostachys cinerea,Locale,0,1
+33,Diospyros mespiliformis,Accepted,Diospyros mespiliformis,Hochst. ex A.DC.,322702-1,Diospyros mespiliformis,Locale,0,1
+34,Eucalyptus camaldulensis,Accepted,Eucalyptus camaldulensis,Dehnh.,592777-1,Eucalyptus camaldulensis,Exotique bois,1,2
+35,Fagara xanthoxyloides,Synonym,Zanthoxylum zanthoxyloides,(Lam.) Zepern. & Timler,909846-1,Zanthoxylum zanthoxyloides,Locale,0,1
+36,Faidherbia albida,Accepted,Faidherbia albida,(Delile) A.Chev.,494764-1,Faidherbia albida,Locale,1,1
+37,Ficus gnaphalocarpa,Synonym,Ficus sycomorus,L.,853797-1,Ficus sycomorus,Locale,0,1
+38,Ficus platyphilla,Spelling error,Ficus platyphylla,Delile,853433-1,Ficus platyphylla,Locale,0,1
+39,Ficus sur,Accepted,Ficus sur,Forssk.,853792-1,Ficus sur,Locale,0,1
+40,Gardenia ternifolia,Accepted,Gardenia ternifolia,Schumach. & Thonn.,751285-1,Gardenia ternifolia,Locale,0,1
+41,Grewia lasiodiscus,Accepted,Grewia lasiodiscus,K.Schum.,834328-1,Grewia lasiodiscus,Locale,0,1
+42,Grewia mollis,Accepted,Grewia mollis,Juss.,332097-2,Grewia mollis,Locale,0,1
+43,Guiera senegalensis,Accepted,Guiera senegalensis,J.F.Gmel.,20011770-1,Guiera senegalensis,Locale,0,1
+44,Hexalobus monopetalus,Accepted,Hexalobus monopetalus,(A.Rich.) Engl. & Diels,73714-1,Hexalobus monopetalus,Locale,0,1
+45,Hyphaena thebaïca,Spelling error,Hyphaene thebaica,(L.) Mart.,667540-1,Hyphaene thebaica,Locale,0,1
+46,Khaya senegalensis,Accepted,Khaya senegalensis,(Desr.) A.Juss.,578867-1,Khaya senegalensis,Locale,1,1
+47,Landolphia heudolotii,Spelling error,Landolphia heudelotii,A.DC.,79629-1,Landolphia heudelotii,Locale,0,1
+48,Lannea microcarpa,Accepted,Lannea microcarpa,Engl. & K.Krause,69788-1,Lannea microcarpa,Locale,0,1
+49,Mangifera indica,Accepted,Mangifera indica,L.,69913-1,Mangifera indica,Exotique fruitière,1,2
+50,Mitragyna inermis,Accepted,Mitragyna inermis,(Willd.) Kuntze,756296-1,Mitragyna inermis,Locale,0,1
+51,Parkia biglobosa,Accepted,Parkia biglobosa,(Jacq.) R.Br. ex G.Don,941491-1,Parkia biglobosa,Locale,1,1
+52,Phoenix dactylifera,Accepted,Phoenix dactylifera,L.,668912-1,Phoenix dactylifera,Exotique fruitière,1,2
+53,Piliostigma reticulatum,Accepted,Piliostigma reticulatum,(DC.) Hochst.,514345-1,Piliostigma reticulatum,Locale,0,1
+54,Piliostigma thonningii,Accepted,Piliostigma thonningii,(Schumach.) Milne-Redh.,514346-1,Piliostigma thonningii,Locale,0,1
+55,Prosopis africana,Synonym,Anonychium africanum,(Guill. & Perr.) C.E.Hughes & G.P.Lewis,77303578-1,Anonychium africanum,Locale,0,1
+56,Pterocarpus erinaceus,Accepted,Pterocarpus erinaceus,Poir.,516454-1,Pterocarpus erinaceus,Locale,0,1
+57,Pterocarpus lucens,Accepted,Pterocarpus lucens,Lepr. ex Guill. & Perr.,516496-1,Pterocarpus lucens,Locale,0,1
+58,Pterocarpus santalinoides,Accepted,Pterocarpus santalinoides,L'Hér. ex DC.,516568-1,Pterocarpus santalinoides,Locale,0,1
+59,Saba senegalensis,Accepted,Saba senegalensis,(A.DC.) Pichon,81759-1,Saba senegalensis,Locale,0,1
+60,Sarcocephalus esculentus,Synonym,Nauclea latifolia,Sm.,757144-1,Nauclea latifolia,Locale,0,1
+61,Sclerocarya birrea,Accepted,Sclerocarya birrea,(A.Rich.) Hochst.,71162-1,Sclerocarya birrea,Locale,0,1
+62,Securidaca longipedunculata,Spelling error,Securidaca longepedunculata,Fresen.,692714-1,Securidaca longepedunculata,Locale,0,1
+63,Sterculia setigera,Accepted,Sterculia setigera,Delile,825462-1,Sterculia setigera,Locale,0,1
+64,Tamarindus indica,Accepted,Tamarindus indica,L.,520167-1,Tamarindus indica,Locale,1,1
+65,Terminalia macroptera,Accepted,Terminalia macroptera,Guill. & Perr.,171217-1,Terminalia macroptera,Locale,0,1
+66,Terminalia mantaly,Accepted,Terminalia mantaly,H.Perrier,171229-1,Terminalia mantaly,Locale,1,1
+67,Vitellaria paradoxa,Accepted,Vitellaria paradoxa,C.F.Gaertn.,790034-1,Vitellaria paradoxa,Locale,1,1
+68,Vitex barbata,Synonym,Vitex madiensis,Oliv.,865856-1,Vitex madiensis,Locale,0,1
+69,Vitex doniana,Accepted,Vitex doniana,Sweet,865694-1,Vitex doniana,Locale,0,1
+70,Ximenia americana,Accepted,Ximenia americana,L.,316341-2,Ximenia americana,Locale,0,1
+71,Ziziphus mauritiana,Accepted,Ziziphus mauritiana,Lam.,719349-1,Ziziphus mauritiana,Locale,1,1
+72,Ziziphus mucronata,Accepted,Ziziphus mucronata,Willd.,719359-1,Ziziphus mucronata,Locale,0,1
+73,Eggplant,Common name,Solanum,L.,30000630-2,NA,Exotique potagère,1,2
+74,Beet,Common name,Beta vulgaris,L.,164505-1,Beta vulgaris,Exotique potagère,1,2
+75,Carrot,Common name,Daucus carota,L.,841063-1,Daucus carota,Exotique potagère,1,2
+76,Cabbage,Common name,Brassica oleracea,L.,279435-1,Brassica oleracea,Exotique potagère,1,2
+77,Lettuce,Common name,Lactuca sativa,L.,228239-1,Lactuca sativa,Exotique potagère,1,2
+78,Cassava,Common name,Manihot esculenta,Crantz,351790-1,Manihot esculenta,Exotique tubercule,1,2
+79,Onion,Common name,Allium cepa,L.,527795-1,Allium cepa,Exotique potagère,1,2
+80,Yam,Common name,Dioscorea,Plum. ex L.,328349-2,NA,Exotique tubercule,1,2
+81,Pepper,Common name,Capsicum,L.,30006872-2,NA,Exotique potagère,1,2
+82,Bell pepper,Common name,Capsicum annuum,L.,316944-2,Capsicum annuum,Exotique potagère,1,2
+83,Potato,Common name,Solanum tuberosum,L.,821337-1,Solanum tuberosum,Exotique tubercule,1,2
+84,Tomato,Common name,Solanum lycopersicum,L.,316947-2,Solanum lycopersicum,Exotique potagère,1,2
+85,Guava,Common name,Psidium guajava,L.,600841-1,Psidium guajava,Exotique fruitière,1,2
