@@ -6,8 +6,7 @@ This repository contains the R code and input data used for analysis in:
 
 > Ceci, P., Gianella, M., Panero, I., Burton, G. P., Sidibé, 
 S. I., Sanogo, S., Kelly, B. A., Attorre, F., Ulian, T., 2026. 
-Traditional knowledge and use of wild plant species in Mali: 
-Correlations with households’ livelihood assets. *[Journal]*. DOI: [xxx]
+Linking traditional knowledge and use of wild plant species with household livelihood assets in Mali. *[Journal]*. DOI: [xxx]
 
 The analysis covers:
 1. Recoding of the raw survey matrix
