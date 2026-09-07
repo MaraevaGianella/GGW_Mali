@@ -66,8 +66,7 @@ identifying information and are shared openly.
 
 The survey matrices (`survey_matrix_raw.csv`, `survey_matrix_recoded.csv`)
 contain individual-level survey responses. Participant IDs are anonymised
-(see above). These files are shared in this repository subject to the
-conditions of the original ethics approval. If you have any concerns, please
+(see above). If you have any concerns, please
 contact the corresponding author.
 
 ---
