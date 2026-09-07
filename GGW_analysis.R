@@ -776,10 +776,21 @@ df_full <- df_full %>%
     if (all(grepl("^[0-9.]+$", levels(x)))) as.numeric(as.character(x)) else x
   }))
 
+# NOTE (fixed YYYY-MM-DD): "Village" is a location identifier with as many
+# levels as there are sampled villages. In the pre-anonymisation version of
+# this script it was named "Community_ID" and was explicitly excluded from
+# the predictor pool below. After the dataset was anonymised for public
+# release the column was renamed to "Village", but this exclusion list was
+# never updated to match — so "Village" was silently included as a
+# candidate predictor. With ~150 observations and many other categorical
+# predictors already in the pool, including a ~19-level location factor
+# causes the stepwise search to saturate (R² = 1, AIC = -Inf) instead of
+# converging on a meaningful model. Excluding "Village" here restores the
+# stepwise search to the model reported in the manuscript.
 predictor_names_full <- setdiff(
   names(df_full),
   c("ID", "IndexCA", "species_Top10", "Species_code", "Use", "used_part",
-    "conservation_status", "Year1", "Y2", "Q32", "Q62")
+    "conservation_status", "Year1", "Y2", "Village", "Q32", "Q62")
 )
 predictor_names_full <-
   predictor_names_full[!grepl("Q54|Q55", predictor_names_full)]
@@ -793,6 +804,19 @@ stepwise_model2 <- step(null_model2,
                         scope     = list(lower = null_model2, upper = full_model2),
                         direction = "both")
 summary(stepwise_model2)
+
+# Sanity check: a saturated fit (R-squared == 1, or non-finite AIC) signals
+# that the predictor pool likely contains an ID-like or otherwise
+# over-granular variable that should be excluded. This guards against the
+# same class of bug recurring silently if predictors are added/renamed later.
+if (isTRUE(all.equal(summary(stepwise_model2)$r.squared, 1)) ||
+    !is.finite(AIC(stepwise_model2))) {
+  warning(
+    "stepwise_model2 appears saturated (R-squared = 1 and/or AIC is not ",
+    "finite). Check predictor_names_full for high-cardinality or ID-like ",
+    "columns (e.g. Village) that should be excluded before re-running."
+  )
+}
 
 refined_formula2 <- as.formula(
   "IndexCA ~ Ethnicity + Q38 + Q45 + Q60 + Q70 + Q15 + Q57 + Q59 + Q74 +
